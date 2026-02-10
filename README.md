@@ -2,6 +2,7 @@
 
 一个简单、轻量级的基于浏览器的 Markdown 预览工具，支持通过文件导入方式预览 Markdown 文档和代码高亮。
 
+[![Support me on Afdian](https://img.shields.io/badge/Support%20Me-%E7%88%B1%E5%8F%91%E7%94%B5-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDQ4QzExOS43IDQ4IDggMTY5LjcgOCAyNTZzMTE5LjcgMjA4IDI1NiAyMDhjODcuMiAwIDE2Ny40LTI1LjIgMjM1LjUtNjYuNGwtMzQuMS01OC44QzM5NC41IDM2Ny41IDMyNS44IDM4NCAyNTYgMzg0Yy04Ni41IDAtMTU2LjgtNzAuMy0xNTYuLTE1Ni44IDAtODYuNSA3MC4zLTE1Ni44IDE1Ni44LTE1Ni44IDY5LjggMCAxMzkuNSAyNS4yIDE5MC41IDY2LjRMNDQ3LjkgNDhDMzc4LjYgNi44IDMwOC40IDAgMjU2IDQ4eiIvPjwvc3ZnPg==)](https://afdian.com/a/hqjPrime/plan)
 ## 功能特点
 
 - ✅ Markdown 文件导入预览
@@ -364,5 +365,4 @@ const md = window.markdownit({
 ---
 
 **享受 Markdown 编写的乐趣！** 🎉
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![Support me on Afdian](https://img.shields.io/badge/Support%20Me-%E7%88%B1%E5%8F%91%E7%94%B5-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDQ4QzExOS43IDQ4IDggMTY5LjcgOCAyNTZzMTE5LjcgMjA4IDI1NiAyMDhjODcuMiAwIDE2Ny40LTI1LjIgMjM1LjUtNjYuNGwtMzQuMS01OC44QzM5NC41IDM2Ny41IDMyNS44IDM4NCAyNTYgMzg0Yy04Ni41IDAtMTU2LjgtNzAuMy0xNTYuLTE1Ni44IDAtODYuNSA3MC4zLTE1Ni44IDE1Ni44LTE1Ni44IDY5LjggMCAxMzkuNSAyNS4yIDE5MC41IDY2LjRMNDQ3LjkgNDhDMzc4LjYgNi44IDMwOC40IDAgMjU2IDQ4eiIvPjwvc3ZnPg==)](https://afdian.com/a/hqjPrime/plan)
