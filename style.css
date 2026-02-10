@@ -1,0 +1,112 @@
+/*
+Markdown Previewer - Style Sheet
+Author: HQJ Prime
+Description: CSS styles for Markdown Previewer application
+Version: 1.0.0
+License: MIT
+*/
+
+body {
+    margin: 0;
+    padding: 20px;
+    background: #f6f8fa;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.upload-btn {
+    padding: 8px 16px;
+    background: #0366d6;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.upload-btn:hover {
+    background: #0353a4;
+}
+
+#fileInput {
+    display: none;
+}
+
+.theme-selector {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.theme-selector label {
+    font-size: 14px;
+    color: #666;
+    margin-right: 5px;
+}
+
+.theme-selector select {
+    padding: 6px 10px;
+    border: 1px solid #d1d5da;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.file-info {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    font-size: 12px;
+    color: #666;
+    padding: 4px 8px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+}
+
+#preview {
+    background: white;
+    padding: 40px;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    min-height: 80vh;
+}
+
+.drop-area {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(3, 102, 214, 0.1);
+    border: 2px dashed #0366d6;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.drop-area.active {
+    display: flex;
+}
+
+.drop-area p {
+    font-size: 24px;
+    color: #0366d6;
+}
+

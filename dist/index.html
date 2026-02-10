@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+Markdown Previewer
+Author: HQJ Prime
+Description: Main HTML file for Markdown Previewer application
+Version: 1.0.0
+License: MIT
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Previewer</title>
+    <!-- GitHub style CSS -->
+    <link rel="stylesheet" href="lib/github-markdown.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Markdown Previewer</h1>
+            <div>
+                <input type="file" id="fileInput" accept=".md,.markdown,.txt">
+                <button class="upload-btn" onclick="document.getElementById('fileInput').click()">Import File</button>
+                <div class="theme-selector">
+                    <label for="themeSelect">Theme:</label>
+                    <select id="themeSelect">
+                        <option value="">Loading...</option>
+                    </select>
+                </div>
+                <div class="file-info" id="fileInfo"></div>
+            </div>
+        </div>
+        <div id="preview" class="markdown-body">
+            <h2>Welcome to Markdown Previewer</h2>
+            <p>You can:</p>
+            <ul>
+                <li>Click the "Import File" button in the top right corner to select a Markdown file</li>
+                <li>Directly drag and drop Markdown files onto this page</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="drop-area" id="dropArea">
+        <p>Please release to import file</p>
+    </div>
+
+    <!-- Library imports -->
+    <script src="lib/markdown-it.min.js"></script>
+    <script src="lib/purify.min.js"></script>
+    <script src="lib/highlight.min.js"></script>
+    <link rel="stylesheet" href="lib/github.min.css">
+
+    <script src="script.js"></script>
+</body>
+</html>

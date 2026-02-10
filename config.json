@@ -1,0 +1,24 @@
+{
+  "styles": {
+    "background": "#ffffff",
+    "text": "#24292e",
+    "h1": "#1a1a1a",
+    "h1Border": "2px solid #e1e4e8",
+    "h2": "#2c3e50",
+    "h2Border": "1px solid #e1e4e8",
+    "h3": "#34495e",
+    "link": "#0366d6",
+    "linkHover": "#0256c7",
+    "strong": "#d32f2f",
+    "blockquote": "#6a737d",
+    "blockquoteBorder": "4px solid #dfe2e5",
+    "blockquoteBackground": "#f6f8fa",
+    "code": "rgba(27, 31, 35, 0.05)",
+    "codeColor": "#24292e",
+    "preBackground": "#f6f8fa",
+    "preBorder": "1px solid #e1e4e8",
+    "hr": "#e1e4e8",
+    "tableBorder": "#e1e4e8",
+    "tableHeaderBackground": "#f6f8fa"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dracula Theme",
+  "description": "Dracula style theme",
+  "isDark": true,
+  "styles": {
+    "background": "#282a36",
+    "text": "#f8f8f2",
+    "h1": "#bd93f9",
+    "h1Border": "2px solid #44475a",
+    "h2": "#8be9fd",
+    "h2Border": "1px solid #44475a",
+    "h3": "#50fa7b",
+    "link": "#ff79c6",
+    "linkHover": "#ffb86c",
+    "strong": "#ff5555",
+    "blockquote": "#6272a4",
+    "blockquoteBorder": "4px solid #44475a",
+    "blockquoteBackground": "#44475a",
+    "code": "rgba(189, 147, 249, 0.2)",
+    "codeColor": "#f8f8f2",
+    "preBackground": "#44475a",
+    "preBorder": "1px solid #6272a4",
+    "hr": "#44475a",
+    "tableBorder": "#44475a",
+    "tableHeaderBackground": "#44475a"
+  }
+}

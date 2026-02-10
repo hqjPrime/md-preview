@@ -1,0 +1,27 @@
+{
+  "name": "Modern Minimalist Gray Orange",
+  "description": "Modern minimalist theme with gray base and orange accent",
+  "isDark": false,
+  "styles": {
+    "background": "#F8F9FA",
+    "text": "#444444",
+    "h1": "#2C2C2C",
+    "h1Border": "2px solid #E9ECEF",
+    "h2": "#555555",
+    "h2Border": "1px solid #E9ECEF",
+    "h3": "#777777",
+    "link": "#E67E22",
+    "linkHover": "#D35400",
+    "strong": "#E67E22",
+    "blockquote": "#AAAAAA",
+    "blockquoteBorder": "4px solid #E9ECEF",
+    "blockquoteBackground": "#FFFFFF",
+    "code": "rgba(230, 126, 34, 0.05)",
+    "codeColor": "#444444",
+    "preBackground": "#FFFFFF",
+    "preBorder": "1px solid #E9ECEF",
+    "hr": "#E9ECEF",
+    "tableBorder": "#E9ECEF",
+    "tableHeaderBackground": "#FFFFFF"
+  }
+}

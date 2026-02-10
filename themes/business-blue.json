@@ -1,0 +1,27 @@
+{
+  "name": "Classic Business Blue",
+  "description": "Professional and stable business blue theme",
+  "isDark": false,
+  "styles": {
+    "background": "#FFFFFF",
+    "text": "#333333",
+    "h1": "#1A5276",
+    "h1Border": "2px solid #E1E4E8",
+    "h2": "#2874A6",
+    "h2Border": "1px solid #E1E4E8",
+    "h3": "#3498DB",
+    "link": "#3498DB",
+    "linkHover": "#2980B9",
+    "strong": "#3498DB",
+    "blockquote": "#95A5A6",
+    "blockquoteBorder": "4px solid #E1E4E8",
+    "blockquoteBackground": "#F6F8FA",
+    "code": "rgba(27, 31, 35, 0.05)",
+    "codeColor": "#333333",
+    "preBackground": "#F6F8FA",
+    "preBorder": "1px solid #E1E4E8",
+    "hr": "#E1E4E8",
+    "tableBorder": "#E1E4E8",
+    "tableHeaderBackground": "#F6F8FA"
+  }
+}

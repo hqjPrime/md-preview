@@ -1,0 +1,27 @@
+{
+  "name": "Dark Pink Theme",
+  "description": "Dark theme with pink accents",
+  "isDark": true,
+  "styles": {
+    "background": "#1A1A1A",
+    "text": "#FFE6F2",
+    "h1": "#D46A9F",
+    "h1Border": "2px solid #333333",
+    "h2": "#E685B5",
+    "h2Border": "1px solid #333333",
+    "h3": "#F0A3C9",
+    "link": "#FF1493",
+    "linkHover": "#C71585",
+    "strong": "#FF69B4",
+    "blockquote": "#8B4513",
+    "blockquoteBorder": "4px solid #333333",
+    "blockquoteBackground": "#2A2A2A",
+    "code": "rgba(255, 105, 180, 0.1)",
+    "codeColor": "#FFB6C1",
+    "preBackground": "#2A2A2A",
+    "preBorder": "1px solid #333333",
+    "hr": "#333333",
+    "tableBorder": "#333333",
+    "tableHeaderBackground": "#2A2A2A"
+  }
+}

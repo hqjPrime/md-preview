@@ -1,0 +1,27 @@
+{
+  "name": "Dark Theme",
+  "description": "Dark theme for comfortable viewing",
+  "isDark": true,
+  "styles": {
+    "background": "#1e1e1e",
+    "text": "#d4d4d4",
+    "h1": "#ffffff",
+    "h1Border": "2px solid #3e3e3e",
+    "h2": "#e0e0e0",
+    "h2Border": "1px solid #3e3e3e",
+    "h3": "#c5c5c5",
+    "link": "#4fc3f7",
+    "linkHover": "#29b6f6",
+    "strong": "#ff6b6b",
+    "blockquote": "#a0a0a0",
+    "blockquoteBorder": "4px solid #3e3e3e",
+    "blockquoteBackground": "#2d2d2d",
+    "code": "rgba(255, 255, 255, 0.1)",
+    "codeColor": "#d4d4d4",
+    "preBackground": "#2d2d2d",
+    "preBorder": "1px solid #3e3e3e",
+    "hr": "#3e3e3e",
+    "tableBorder": "#3e3e3e",
+    "tableHeaderBackground": "#2d2d2d"
+  }
+}

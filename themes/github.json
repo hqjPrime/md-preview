@@ -1,0 +1,27 @@
+{
+  "name": "GitHub Theme",
+  "description": "GitHub official style theme",
+  "isDark": false,
+  "styles": {
+    "background": "#ffffff",
+    "text": "#24292f",
+    "h1": "#24292f",
+    "h1Border": "1px solid #d0d7de",
+    "h2": "#24292f",
+    "h2Border": "1px solid #d0d7de",
+    "h3": "#24292f",
+    "link": "#0969da",
+    "linkHover": "#0550ae",
+    "strong": "#24292f",
+    "blockquote": "#57606a",
+    "blockquoteBorder": "4px solid #d0d7de",
+    "blockquoteBackground": "#f6f8fa",
+    "code": "rgba(175, 184, 193, 0.2)",
+    "codeColor": "#24292f",
+    "preBackground": "#f6f8fa",
+    "preBorder": "1px solid #d0d7de",
+    "hr": "#d0d7de",
+    "tableBorder": "#d0d7de",
+    "tableHeaderBackground": "#f6f8fa"
+  }
+}

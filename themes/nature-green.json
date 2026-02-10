@@ -1,0 +1,27 @@
+{
+  "name": "Fresh Nature Green",
+  "description": "Soft and creative nature green theme",
+  "isDark": false,
+  "styles": {
+    "background": "#FAF8F0",
+    "text": "#2D2D2D",
+    "h1": "#229954",
+    "h1Border": "2px solid #E8F5E9",
+    "h2": "#27AE60",
+    "h2Border": "1px solid #E8F5E9",
+    "h3": "#52BE80",
+    "link": "#1ABC9C",
+    "linkHover": "#16A085",
+    "strong": "#1ABC9C",
+    "blockquote": "#B8D9A8",
+    "blockquoteBorder": "4px solid #E8F5E9",
+    "blockquoteBackground": "#F1F8E9",
+    "code": "rgba(46, 204, 113, 0.05)",
+    "codeColor": "#2D2D2D",
+    "preBackground": "#F1F8E9",
+    "preBorder": "1px solid #E8F5E9",
+    "hr": "#E8F5E9",
+    "tableBorder": "#E8F5E9",
+    "tableHeaderBackground": "#F1F8E9"
+  }
+}
