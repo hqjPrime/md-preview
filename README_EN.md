@@ -2,6 +2,12 @@
 
 A simple, lightweight browser-based Markdown preview tool that supports previewing Markdown documents and code highlighting through file import.
 
+Preview this project: https://hqjprime.github.io/md-preview/
+
+
+[![Support me on Afdian](https://img.shields.io/badge/Support%20Me-%E7%88%B1%E5%8F%91%E7%94%B5-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjU2IDQ4QzExOS43IDQ4IDggMTY5LjcgOCAyNTZzMTE5LjcgMjA4IDI1NiAyMDhjODcuMiAwIDE2Ny40LTI1LjIgMjM1LjUtNjYuNGwtMzQuMS01OC44QzM5NC41IDM2Ny41IDMyNS44IDM4NCAyNTYgMzg0Yy04Ni41IDAtMTU2LjgtNzAuMy0xNTYuLTE1Ni44IDAtODYuNSA3MC4zLTE1Ni44IDE1Ni44LTE1Ni44IDY5LjggMCAxMzkuNSAyNS4yIDE5MC41IDY2LjRMNDQ3LjkgNDhDMzc4LjYgNi44IDMwOC40IDAgMjU2IDQ4eiIvPjwvc3ZnPg==)](https://afdian.com/a/hqjPrime/plan)
+💖 If this tool is helpful to you, feel free to support me via [Afdian](https://afdian.com/a/hqjPrime/plan)!
+
 ## Features
 
 - ✅ Markdown file import and preview
